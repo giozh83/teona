@@ -1,0 +1,77 @@
+.bar_parent{
+display: flex;
+width: 99vw;
+height: 10vh;
+background-color: antiquewhite;
+border-radius: 45px;
+}
+.bar_chiled1{
+    /* border: 1px solid black; */
+    width: 20vw;
+    height: 10vh;
+    /* background-color: aqua; */
+}
+
+.abra{
+    text-align: center;
+    color: blue;
+}
+
+.abra1{
+    text-align: center;
+    
+    border: 1px solid black;
+    border-radius: 55px;
+}
+
+.abra1:hover{
+    background-color: black;
+    text-align: center;
+    cursor: pointer;
+    border: 2px solid rgb(63, 33, 33);
+    border-radius: 55px;
+    color: white;
+}
+/* deteils */
+.deteils{
+    display: flex;
+    /* border: 1px solid black;  */
+    width: 99vw;
+    
+}
+.deteils0{
+    /* border: 1px solid black;  */
+    width: 20vw;
+    height: 50vh;
+    
+}
+
+.deteils1{
+    /* border: 1px solid black;  */
+    width: 60vw;
+    height: 50vh;
+    
+}
+
+/* deteils end */
+body{
+    background-color: bisque;
+
+    
+}
+
+h4{
+    font-family: jetbrains-mono;
+    /* background-color: #444; */
+    /* color: #EEEEEE; */
+    font-size: 18px;
+    max-width: 650px;
+    line-height: 1.2;
+    display: grid;
+    /* align-items: center; */
+    margin: auto auto;
+}
+
+
+
+
